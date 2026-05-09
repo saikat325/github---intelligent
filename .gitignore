@@ -39,6 +39,7 @@ backend/repos/
 repos/
 
 # ── Node / React ──────────────────────────────────────────────
+
 node_modules/
 frontend/node_modules/
 npm-debug.log*

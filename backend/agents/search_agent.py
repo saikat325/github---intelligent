@@ -6,8 +6,8 @@ from langgraph.graph import StateGraph, END
 from core.config import get_settings
 from core.vectorstore import semantic_search
 
-settings = get_settings()
 
+settings = get_settings()
 
 # ─── State Schema ────────────────────────────────────────────────────────────
 

@@ -289,21 +289,14 @@ Frontend opens at: `http://localhost:3000`
 > This test proves the tool can navigate complex agentic logic across files.
 <br/>
 <div align="center">
-<<<<<<< HEAD
+
   <img src="./screenshots/indexing_demo.png" alt="Ingestion and Indexing" width="800">
   <br/>
   <img src="./screenshots/query_result1.png" alt="Semantic Query Results" width="800">
   <br/>
   <img src="./screenshots/query_result2.png" alt="Contextual Snippet Retrieval" width="800">
 </div>
-=======
-  <img src="Screenshot 2026-05-08 160952.png" alt="SEO Analysis Query" width="800">
-   <img src="Screenshot 2026-05-08 161155.png" alt="SEO Analysis Query" width="800">
-    <img src="Screenshot 2026-05-08 161217.png" alt="SEO Analysis Query" width="800">
-  
-</div>
 
->>>>>>> 808fdd92cc927897f2ec18808438de7b93f1cb7e
 ---
 
 ## 4.6 Limitations & Future Work

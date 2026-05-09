@@ -9,12 +9,16 @@ import {
 } from 'lucide-react';
 import { ingestRepo, getStatus, queryRepo } from './hooks/api';
 
+
+
 const EXAMPLE_QUERIES = [
   'Where is the authentication logic implemented?',
   'Which file handles database connections?',
   'Show me all API endpoints defined in this project.',
   'Where is the login function and what does it call?',
 ];
+
+
 
 export default function App() {
   const [url, setUrl] = useState('');
