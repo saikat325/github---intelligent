@@ -5,12 +5,12 @@ __pycache__/
 *.so
 dist/
 build/
-eggs/
+
 parts/
 var/
 sdist/
 wheels/
-*.egg-link
+
 pip-wheel-metadata/
 MANIFEST
 
