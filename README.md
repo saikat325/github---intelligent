@@ -285,8 +285,16 @@ Frontend opens at: `http://localhost:3000`
 ---
 
 ## 4.5 Usage Examples
-
-
+**Query:** *"Where is the authentication logic implemented?"*
+> This test proves the tool can navigate complex agentic logic across files.
+<br/>
+<div align="center">
+  <img src="./screenshots/indexing_demo.png" alt="Ingestion and Indexing" width="800">
+  <br/>
+  <img src="./screenshots/query_result1.png" alt="Semantic Query Results" width="800">
+  <br/>
+  <img src="./screenshots/query_result2.png" alt="Contextual Snippet Retrieval" width="800">
+</div>
 ---
 
 ## 4.6 Limitations & Future Work

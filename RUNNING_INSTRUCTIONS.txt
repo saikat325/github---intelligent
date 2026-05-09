@@ -16,7 +16,6 @@ github-intel/
 │   │   ├── chunker.py            ← Symbol-aware code chunker
 │   │   └── vectorstore.py        ← ChromaDB + sentence-transformers
 │   ├── main.py                   ← FastAPI app (all routes)
-│   ├── cli.py                    ← Typer CLI interface
 │   ├── requirements.txt
 │   ├── Dockerfile
 │   └── .env.example
